@@ -1,0 +1,517 @@
+2025-12-13 14:40:32 - PHP Notice:  Undefined variable: breadcrumbs in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 4
+2025-12-13 14:40:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 4
+2025-12-13 14:40:32 - PHP Notice:  Undefined variable: tab_links in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_attribute in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_option in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_profile in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_discount in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_special in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_reward in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tab_design in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_tag in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 48
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: error_model in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 60
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_sku in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 65
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: sku in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 66
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_upc in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 69
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: upc in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 70
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_ean in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 73
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: ean in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 74
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_jan in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 77
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: jan in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 78
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_isbn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 81
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: isbn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 82
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_mpn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 85
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: mpn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 86
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_location in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 89
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: location in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 90
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_tax_class in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 104
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: text_none in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 106
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: tax_classes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 107
+2025-12-13 14:40:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 107
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_minimum in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 121
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: minimum in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 122
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_subtract in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 125
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: subtract in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 127
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_stock_status in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 137
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: stock_statuses in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 139
+2025-12-13 14:40:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 139
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_shipping in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 149
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: shipping in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 150
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 163
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: keyword in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 164
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 167
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: thumb in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 168
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 169
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: text_browse in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 170
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: no_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 170
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: text_clear in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 170
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_date_available in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 173
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: date_available in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 174
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_dimension in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 177
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: length in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 178
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: width in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 179
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: height in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 180
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: entry_length in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 183
+2025-12-13 14:40:33 - PHP Notice:  Undefined variable: length_classes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 185
+2025-12-13 14:40:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 185
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_weight in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 195
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: weight in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 196
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_weight_class in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 199
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: weight_classes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 201
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 201
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_sort_order in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 223
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: sort_order in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 224
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_manufacturer in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 231
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: manufacturer in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 232
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: manufacturer_id in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 232
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_category in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 235
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 242
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 242
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_filter in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 251
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_filters in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 258
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 258
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_store in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 267
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_store in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 271
+2025-12-13 14:40:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 271
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: text_default in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 276
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: stores in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 279
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 279
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_download in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 294
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_downloads in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 301
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 301
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_related in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 310
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_related in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 317
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 317
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_attribute in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 331
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_text in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 332
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_attributes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 337
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 337
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: button_add_attribute in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 354
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_options in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 362
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 362
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: button_add_option in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 368
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: button_add_option in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 368
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_options in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 371
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 371
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_profile in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 532
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 533
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_profiles in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 539
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 539
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: button_add_profile in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 575
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 584
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_priority in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 586
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_date_start in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 588
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: entry_date_end in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 589
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: product_discounts in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 594
+2025-12-13 14:40:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 594
+2025-12-13 14:40:34 - PHP Notice:  Undefined variable: button_add_discount in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 619
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 628
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_priority in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 629
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_date_start in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 631
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_date_end in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 632
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: product_specials in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 637
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 637
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_add_special in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 661
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 670
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_sort_order in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 671
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: product_images in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 676
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 676
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_add_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 692
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_points in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 700
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: points in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 701
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 707
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_reward in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 708
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 711
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 711
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_store in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 725
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_layout in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 726
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: text_default in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 731
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: layouts in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 734
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 734
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: stores in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 744
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 744
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 993
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_required in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1068
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1077
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1084
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1091
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1098
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1105
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1112
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1123
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_subtract in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1125
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_option_points in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1127
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: entry_weight in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1128
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_add_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1135
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1203
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1219
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1219
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1228
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1246
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1246
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1254
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: text_image_manager in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1272
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: no_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1298
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: text_browse in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1298
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: no_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1298
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: text_clear in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1298
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1300
+2025-12-13 14:40:35 - PHP Notice:  Undefined variable: profiles in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1332
+2025-12-13 14:40:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1332
+2025-12-13 14:40:36 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1339
+2025-12-13 14:40:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1339
+2025-12-13 14:40:36 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1345
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: breadcrumbs in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 4
+2025-12-13 14:41:18 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 4
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_links in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_attribute in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_option in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_profile in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_discount in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_special in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_reward in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: tab_design in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 17
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: entry_tag in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 48
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: error_model in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 60
+2025-12-13 14:41:18 - PHP Notice:  Undefined variable: entry_sku in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 65
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: sku in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 66
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_upc in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 69
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: upc in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 70
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_ean in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 73
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: ean in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 74
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_jan in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 77
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: jan in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 78
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_isbn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 81
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: isbn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 82
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_mpn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 85
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: mpn in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 86
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_location in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 89
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: location in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 90
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_tax_class in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 97
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: text_none in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 99
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: tax_classes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 100
+2025-12-13 14:41:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 100
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_minimum in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 114
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: minimum in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 115
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_subtract in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 118
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: subtract in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 120
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_stock_status in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 130
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: stock_statuses in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 132
+2025-12-13 14:41:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 132
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_shipping in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 142
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: shipping in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 143
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 156
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: keyword in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 157
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 160
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: thumb in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 161
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 162
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: text_browse in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 163
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: no_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 163
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: text_clear in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 163
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_date_available in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 166
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: date_available in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 167
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_dimension in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 170
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: length in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 171
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: width in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 172
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: height in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 173
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_length in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 176
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: length_classes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 178
+2025-12-13 14:41:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 178
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_weight in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 188
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: weight in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 189
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_weight_class in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 192
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: weight_classes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 194
+2025-12-13 14:41:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 194
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_sort_order in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 216
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: sort_order in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 217
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_manufacturer in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 224
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: manufacturer in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 225
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: manufacturer_id in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 225
+2025-12-13 14:41:19 - PHP Notice:  Undefined variable: entry_category in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 228
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 235
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 235
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_filter in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 244
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_filters in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 251
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 251
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_store in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 260
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_store in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 264
+2025-12-13 14:41:20 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 264
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: text_default in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 269
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: stores in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 272
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 272
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_download in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 287
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_downloads in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 294
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 294
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_related in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 303
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_related in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 310
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 310
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_attribute in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 324
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_text in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 325
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_attributes in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 330
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 330
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: button_add_attribute in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 347
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_options in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 355
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 355
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: button_add_option in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 361
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: button_add_option in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 361
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_options in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 364
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 364
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_profile in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 525
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 526
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_profiles in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 532
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 532
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: button_add_profile in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 568
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 577
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_priority in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 579
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_date_start in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 581
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_date_end in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 582
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_discounts in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 587
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 587
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: button_add_discount in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 612
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 621
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_priority in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 622
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_date_start in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 624
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_date_end in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 625
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_specials in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 630
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 630
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: button_add_special in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 654
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 663
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_sort_order in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 664
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: product_images in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 669
+2025-12-13 14:41:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 669
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: button_add_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 685
+2025-12-13 14:41:20 - PHP Notice:  Undefined variable: entry_points in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 693
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: points in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 694
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_customer_group in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 700
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_reward in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 701
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 704
+2025-12-13 14:41:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 704
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_store in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 718
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_layout in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 719
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: text_default in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 724
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: layouts in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 727
+2025-12-13 14:41:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 727
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: stores in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 737
+2025-12-13 14:41:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 737
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 986
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_required in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1061
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1070
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1077
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1084
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1091
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1098
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1105
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1116
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_subtract in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1118
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_option_points in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1120
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: entry_weight in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1121
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: button_add_option_value in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1128
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1196
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1212
+2025-12-13 14:41:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1212
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1221
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1239
+2025-12-13 14:41:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1239
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1247
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: text_image_manager in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1265
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: no_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1291
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: text_browse in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1291
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: no_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1291
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: text_clear in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1291
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1293
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: profiles in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1325
+2025-12-13 14:41:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1325
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: customer_groups in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1332
+2025-12-13 14:41:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1332
+2025-12-13 14:41:21 - PHP Notice:  Undefined variable: button_remove in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_form.tpl on line 1338
+2025-12-13 14:44:32 - PHP Notice:  Undefined index: stock_status_id in C:\xampp4\htdocs\backend_task\admin\model\catalog\product.php on line 16
+2025-12-13 14:44:32 - PHP Notice:  Undefined index: cost in C:\xampp4\htdocs\backend_task\admin\model\catalog\product.php on line 21
+2025-12-13 14:44:32 - PHP Notice:  Undefined index: weight_class_id in C:\xampp4\htdocs\backend_task\admin\model\catalog\product.php on line 24
+2025-12-13 14:44:32 - PHP Notice:  Undefined index: length_class_id in C:\xampp4\htdocs\backend_task\admin\model\catalog\product.php on line 28
+2025-12-13 14:53:08 - PHP Notice:  Undefined index: cost in C:\xampp4\htdocs\backend_task\admin\model\catalog\product.php on line 84
+2025-12-13 15:25:08 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 71
+2025-12-13 15:25:46 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 71
+2025-12-13 15:32:01 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 343
+2025-12-13 15:32:01 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 71
+2025-12-13 15:34:53 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 343
+2025-12-13 15:34:53 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 524
+2025-12-13 15:41:46 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-13 15:41:46 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: error_warning in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 8
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: success in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 11
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: heading_title in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 16
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: button_insert in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 17
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: button_copy in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 17
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: button_delete in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 17
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 26
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort_name in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 29
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 31
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort_model in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 34
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 36
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 41
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 51
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort_quantity in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 54
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 56
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: sort_status in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 59
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: text_enabled in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 79
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: text_disabled in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 84
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: button_filter in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 87
+2025-12-13 15:44:47 - PHP Notice:  Undefined index: special in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 100
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 136
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 183
+2025-12-13 15:44:47 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 209
+2025-12-13 15:45:08 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-13 15:45:08 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-15 1:31:31 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-15 1:31:31 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-15 1:31:39 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-15 1:31:39 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-15 1:31:46 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-15 1:31:46 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-15 1:31:55 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-15 1:31:55 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-15 1:36:29 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-15 1:36:29 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-15 1:38:41 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 347
+2025-12-15 1:38:41 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 528
+2025-12-15 1:42:00 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 364
+2025-12-15 1:42:00 - PHP Notice:  Undefined variable: filter_cost in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 545
+2025-12-15 2:26:33 - PHP Notice:  Undefined variable: filter_profit in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 82
+2025-12-15 2:27:47 - PHP Notice:  Undefined variable: filter_profit in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 82
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: error_warning in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 8
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: success in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 11
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: heading_title in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 16
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: button_insert in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 17
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: button_copy in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 17
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: button_delete in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 17
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: column_image in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 25
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: sort_name in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 27
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: column_name in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 27
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: sort_model in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 34
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: column_model in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 34
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: sort_price in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 39
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: column_price in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 39
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: sort_cost in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 46
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: column_cost in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 47
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: sort_profit in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 54
+2025-12-15 3:35:07 - PHP Notice:  Undefined variable: sort_quantity in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 60
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: column_quantity in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 60
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: sort_status in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 65
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: column_status in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 65
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: column_action in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 67
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: text_enabled in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 85
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: text_disabled in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 90
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: button_filter in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 93
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: pagination in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 138
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 144
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 202
+2025-12-15 3:35:08 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 228
+2025-12-15 6:54:39 - PHP Notice:  Undefined variable: filter_category in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 78
+2025-12-15 7:15:54 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:15:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:17:48 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:17:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:18:55 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:18:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:51:27 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:51:27 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:53:39 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:53:39 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:53:56 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:53:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:55:08 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:55:08 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:55:23 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:55:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:56:23 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:56:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:56:26 - PHP Notice:  Undefined variable: filter_categories in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 7:56:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\product_list.tpl on line 81
+2025-12-15 8:04:37 - PHP Warning:  Missing argument 1 for ModelCatalogCategory::getCategories(), called in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 1156 and defined in C:\xampp4\htdocs\backend_task\admin\model\catalog\category.php on line 207
+2025-12-15 8:26:27 - PHP Notice:  Undefined variable: filter_category_id in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 476
+2025-12-16 6:06:33 - PHP Warning:  Missing argument 1 for ModelCatalogCategory::getCategories(), called in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 1169 and defined in C:\xampp4\htdocs\backend_task\admin\model\catalog\category.php on line 207
+2025-12-16 6:07:20 - PHP Warning:  Missing argument 1 for ModelCatalogCategory::getCategories(), called in C:\xampp4\htdocs\backend_task\admin\controller\catalog\product.php on line 1169 and defined in C:\xampp4\htdocs\backend_task\admin\model\catalog\category.php on line 207
+2025-12-16 7:36:53 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 77
+2025-12-16 7:40:04 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 77
+2025-12-16 7:40:11 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 77
+2025-12-16 7:41:25 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 77
+2025-12-16 7:48:24 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 77
+2025-12-16 7:52:51 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 78
+2025-12-16 8:19:57 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 77
+2025-12-16 8:23:15 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 77
+2025-12-16 8:24:11 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 74
+2025-12-16 8:24:11 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 79
+2025-12-16 8:24:18 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 74
+2025-12-16 8:24:18 - PHP Notice:  Undefined variable: token in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 79
+2025-12-16 8:56:08 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 38
+2025-12-16 8:56:35 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:08:25 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:08:46 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:08:59 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:09:11 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:10:07 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:10:18 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:10:29 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:19:01 - PHP Notice:  Undefined variable: filter_parent in C:\xampp4\htdocs\backend_task\admin\controller\catalog\category.php on line 199
+2025-12-16 9:19:01 - PHP Notice:  Undefined variable: filter_parent in C:\xampp4\htdocs\backend_task\admin\controller\catalog\category.php on line 244
+2025-12-16 9:19:01 - PHP Notice:  Undefined variable: column_parent in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 26
+2025-12-16 9:20:38 - PHP Notice:  Undefined variable: column_parent in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 26
+2025-12-16 9:21:04 - PHP Notice:  Undefined variable: column_parent in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 26
+2025-12-16 9:24:16 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 9:24:24 - PHP Notice:  Undefined variable: filter_product_parent_path in C:\xampp4\htdocs\backend_task\admin\view\template\catalog\category_list.tpl on line 36
+2025-12-16 11:58:06 - PHP Warning:  Illegal string offset 'order_id' in C:\xampp4\htdocs\backend_task\admin\view\template\sale\order_list.tpl on line 58
+2025-12-16 14:56:06 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1669
+2025-12-16 14:56:06 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1689
+2025-12-16 14:56:06 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1692
+2025-12-16 14:56:06 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1695
+2025-12-16 14:56:06 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1696
+2025-12-16 14:56:06 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1718
+2025-12-16 14:56:25 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1135
+2025-12-16 14:56:25 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1143
+2025-12-16 14:56:25 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1149
+2025-12-16 14:56:25 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1152
+2025-12-16 14:56:25 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1158
+2025-12-16 14:56:25 - PHP Notice:  Undefined index: reward in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1159
+2025-12-16 14:59:06 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1669
+2025-12-16 14:59:06 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1689
+2025-12-16 14:59:06 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1692
+2025-12-16 14:59:06 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1695
+2025-12-16 14:59:06 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1696
+2025-12-16 14:59:07 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1718
+2025-12-16 15:00:00 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1135
+2025-12-16 15:00:00 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1143
+2025-12-16 15:00:00 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1149
+2025-12-16 15:00:00 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1152
+2025-12-16 15:00:00 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1158
+2025-12-16 15:00:00 - PHP Notice:  Undefined index: reward in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1159
+2025-12-16 15:00:14 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1669
+2025-12-16 15:00:14 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1689
+2025-12-16 15:00:14 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1692
+2025-12-16 15:00:14 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1695
+2025-12-16 15:00:14 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1696
+2025-12-16 15:00:14 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1718
+2025-12-16 15:13:44 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1669
+2025-12-16 15:13:44 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1689
+2025-12-16 15:13:44 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1692
+2025-12-16 15:13:44 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1695
+2025-12-16 15:13:44 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1696
+2025-12-16 15:13:44 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1718
+2025-12-16 15:14:23 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1692
+2025-12-16 15:14:23 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1695
+2025-12-16 15:14:23 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1696
+2025-12-16 15:14:43 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1695
+2025-12-16 15:14:44 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1696
+2025-12-16 15:17:13 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1135
+2025-12-16 15:17:13 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1143
+2025-12-16 15:17:13 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1149
+2025-12-16 15:17:13 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1152
+2025-12-16 15:17:13 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1158
+2025-12-16 15:17:13 - PHP Notice:  Undefined index: reward in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1159
+2025-12-16 15:17:30 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1135
+2025-12-16 15:17:30 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1143
+2025-12-16 15:17:30 - PHP Notice:  Undefined index: order_product_id in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1149
+2025-12-16 15:17:30 - PHP Notice:  Undefined index: model in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1152
+2025-12-16 15:17:30 - PHP Notice:  Undefined index: tax in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1158
+2025-12-16 15:17:30 - PHP Notice:  Undefined index: reward in C:\xampp4\htdocs\backend_task\admin\controller\sale\order.php on line 1159
