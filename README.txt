@@ -5,6 +5,16 @@ Environment Details:
    XAMPP version: 1.8.1
    OS: Windows
 
+After downloading the repository as ZIP, OpenCart absolute paths may break.
+
+Setup Instructions
+
+   Please update the following files to match your local directory:
+     - config.php
+     - admin/config.php
+
+
+Update all DIR_* constants to point to your local OpenCart folder.
 
 Task 1 — Product Page Modifications (Admin → Catalog → Products)
    Modified Files:
@@ -53,6 +63,9 @@ TASK 3 — ORDER PAGE MODIFICATION (ADMIN)
 How to Run:
 Place this folder inside XAMPP -> htdocs
 Import the provided database into phpMyAdmin
-Admin credentials can be provided upon request.
+Admin Login:
+   URL: http://localhost/Modified-OpenCart-Website-main/admin
+   Username: admin
+   Password: Baraa123$$
 	
 
